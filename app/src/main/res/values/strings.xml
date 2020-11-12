@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tour Akure</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+    <string name="grocery">Groceries</string>
+    <string name="banks">Banks</string>
+    <string name="nav_drawer_open">Open navigation drawer</string>
+    <string name="nav_drawer_close">Close navigation drawer</string>
+    <string name="corper_mercy">Corper Mercy</string>
+    <string name="m_adams1909_gmail_com">m.adams1909@gmail.com</string>
+    <string name="description">Description</string>
+    <string name="name">Name</string>
+
+</resources>
+
+
+

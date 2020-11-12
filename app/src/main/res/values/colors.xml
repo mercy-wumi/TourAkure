@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="BankColor">@android:color/holo_blue_dark</color>
+    <color name="HotelColor">#ff4d4d</color>
+    <color name="RestaurantColor">@android:color/holo_green_light</color>
+    <color name="GroceryColor">@android:color/holo_orange_light</color>
+    <color name="image_bgcolor">#fff7da</color>
+</resources>

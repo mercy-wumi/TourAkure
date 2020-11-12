@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item android:id="@+id/hotel"
+            android:title="@string/hotels"/>
+        <item android:id="@+id/restaurant"
+            android:title="@string/restaurants"/>
+        <item android:id="@+id/grocery"
+            android:title="@string/grocery"/>
+        <item android:id="@+id/bank"
+            android:title="@string/banks"/>
+    </group>
+
+</menu>
